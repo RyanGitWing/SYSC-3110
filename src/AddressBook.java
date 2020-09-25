@@ -6,8 +6,8 @@ public class AddressBook {
 
     public static void main(String[] args) {
 
-        BuddyInfo buddy1 = new BuddyInfo("Darron");
-        BuddyInfo buddy2 = new BuddyInfo("Laquifa");
+        BuddyInfo buddy1 = new BuddyInfo("Darron", "Gatineau", 6134204);
+        BuddyInfo buddy2 = new BuddyInfo("Laquifa", "Brampton", 819555);
 
         System.out.println("Address Book");
 
