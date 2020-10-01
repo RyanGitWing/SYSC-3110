@@ -37,4 +37,8 @@ public class AddressBook {
 
     }
 
+    public void changeNumber (int Number){
+
+    }
+
 }
