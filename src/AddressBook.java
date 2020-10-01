@@ -9,7 +9,7 @@ public class AddressBook {
         BuddyInfo buddy1 = new BuddyInfo("Darron", "Gatineau", 6134204);
         BuddyInfo buddy2 = new BuddyInfo("Laquifa", "Brampton", 819555);
 
-        System.out.println("Address Book");
+        System.out.println("Book Address");
 
         AddressBook book = new AddressBook();
         book.addBuddy(buddy1);
